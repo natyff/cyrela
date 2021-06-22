@@ -1,0 +1,9 @@
+com\cyrela\poc\config\BatchConfiguration$1.class
+com\cyrela\poc\BatchProcessingApplication.class
+com\cyrela\poc\processor\FinancialPositionItemProcessor.class
+com\cyrela\poc\config\BatchConfiguration$2.class
+com\cyrela\poc\domain\FinancialPosition.class
+com\cyrela\poc\processor\SellItemProcessor.class
+com\cyrela\poc\config\BatchConfiguration.class
+com\cyrela\poc\domain\Sell.class
+com\cyrela\poc\listener\JobCompletionNotificationListener.class
